@@ -1,0 +1,10 @@
+Your client, a retail company, is concerned about data quality and wants to understand sales
+performance, and rebates by product category, sales rep, and country. They have transactional
+information for sales and rebates, but struggle to reconcile the data. You have been asked to
+deliver a POC to prepare the data, highlight data quality issues, and create a report to show
+initial insights.
+
+You are given 2 types of input files:
+● Sales Transactions
+● Rebate Transactions
+
